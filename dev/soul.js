@@ -1,4 +1,4 @@
-Block.createSpecialType({
+/*Block.createSpecialType({
 	base: 1,
 	solid: true,
 	destroytime: 3,
@@ -109,3 +109,4 @@ Entity.damageEntity(ent, 100);
 
 
  
+*/

@@ -1,4 +1,4 @@
-IDRegistry.genItemID("trvb");
+/*IDRegistry.genItemID("trvb");
 
 Item.createArmorItem("trvb", "Piligrim Boots", {name: "travelling_bogots"}, {type: "boots", armor: 3, durability: 390, texture: "armor/traveling_boots_1.png"});
 
@@ -55,3 +55,4 @@ var helmet = Player.getArmorSlot(0);
 if(helmet.id==ItemID.plhl){
 	Entity.addEffect(Player.get(), 16, 1, 100, false);
 }});
+*/

@@ -1,4 +1,4 @@
-IDRegistry.genBlockID("bigChest");
+/*IDRegistry.genBlockID("bigChest");
 Block.createBlockWithRotation("bigChest", [{name: "big chest", texture: [["sss", 0], ["sss", 0], ["sss", 0], ["ppp", 0], ["sss", 0], ["sss", 0]], inCreative: true}], "opaque");
 
 Recipes.addShaped({id: BlockID.bigChest, count: 1, data: 0}, [
@@ -88,3 +88,4 @@ Player.decreaseCarriedItem(1);
 Game.prevent(); 
 }});
 
+*/
